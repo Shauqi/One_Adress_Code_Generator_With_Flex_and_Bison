@@ -1,0 +1,44 @@
+import numpy as np
+import pandas as pd
+# The above section contains the headers
+
+'''
+
+The following section contains the main function
+
+'''
+
+
+def main
+{
+    var a,b,c,d,e
+	a store 5 + 5
+	b store a + 6
+	c store a + b
+
+	ifx(a == 10)
+	{
+		d store a + b
+	}
+	ifx(a == 10)
+	{
+		print(a)
+	}
+	if(a < 10)
+	{
+		print(b)
+	}
+	else
+	{
+		print(d)
+	}
+
+	switch(a)
+	{
+		case 9: { print(a) }
+		case 10: { e store 9 + 9 }
+		default: { print(c) }
+	}
+
+	for(a) { print(b) }
+}
